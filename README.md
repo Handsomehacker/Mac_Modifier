@@ -3,6 +3,7 @@ Mac_Modifier is a designed tool to change the mac address for any linux based op
 
 
 #Requirements to Run the tool:
+
 Open kali linux terminal or any linux platform
 type "apt-get update"
 type "apt-get install figlet"
