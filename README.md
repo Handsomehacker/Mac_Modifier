@@ -10,7 +10,7 @@ type "apt-get update" give enter
 
 and
 
-type "apt-get install figlet"
+type "apt-get install figlet" and give enter
 
 
 #Requirements to run tool on ubuntu:
