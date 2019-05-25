@@ -6,7 +6,9 @@ Mac_Modifier is a designed tool to change the mac address for any linux based op
 
 Open kali linux terminal 
 
-type "apt-get update"
+type "apt-get update" give enter
+
+and
 
 type "apt-get install figlet"
 
@@ -15,9 +17,15 @@ type "apt-get install figlet"
 
 open terminal on ubuntu
 
-type "apt-get update"
-type "apt-get install figlet"
-type "apt install python-pip"
+type "apt-get update"  then give enter
+
+then 
+
+type "apt-get install figlet" then give enter
+
+and then 
+
+type "apt install python-pip" then give enter
 
 
 then download the tool run ./macmodifier.py --help  
